@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1",
+        "name": "Lucas",
+        "position": "Developer",
+        "department": "IT",
+        "salary": "100"
+    }
+]
